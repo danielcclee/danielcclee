@@ -1,4 +1,16 @@
-### Hi there 👋
+```
+           __,__
+   .--.  .-"     "-.  .--.
+  / .. \/  .-. .-.  \/ .. \
+ | |  '|  /   Y   \  |'  | |
+ | \   \  \ 0 | 0 /  /   / |
+  \ '- ,\.-"`` ``"-./, -' /
+   `'-' /_   ^ ^   _\ '-'`
+       |  \._   _./  |
+       \   \ `~` /   /
+        '._ '-=-' _.'
+           '~---~'
+```
 
 <!--
 **danielcclee/danielcclee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
