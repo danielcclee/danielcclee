@@ -1,16 +1,4 @@
-```
-           __,__
-   .--.  .-"     "-.  .--.
-  / .. \/  .-. .-.  \/ .. \
- | |  '|  /   Y   \  |'  | |
- | \   \  \ 0 | 0 /  /   / |
-  \ '- ,\.-"`` ``"-./, -' /
-   `'-' /_   ^ ^   _\ '-'`
-       |  \._   _./  |
-       \   \ `~` /   /
-        '._ '-=-' _.'
-           '~---~'
-```
+![alt text](https://sdk.bitmoji.com/render/panel/fb695398-7ef1-4461-987b-73d3a97805fd-bda69499-a5b0-42e8-ad20-06add74b7c43-v1.png?transparent=1&palette=1)
 
 <!--
 **danielcclee/danielcclee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
